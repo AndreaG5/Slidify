@@ -39,7 +39,7 @@ head(iris)
 
 The App I decided to develop allows the user to select two to four variables of the iris dataset that are then plotted in a simple scatterplot in order to explore the relationsip between each other and constructs a linear model based on those variables, showing the coefficients of the model.
 
-I just wanted to note that I had troubles with the presentation of the coefficients and in particular their names, so i decided to print only the text output, so the printed values are ordered based on the choice that the user made on checkboxes.
+I just wanted to note that I had troubles with the presentation of the coefficients and in particular their names, so i decided to print only the text output, so the printed values are ordered based on the choice that the user makes on checkboxes.
 
 
 ---
